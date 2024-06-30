@@ -1,6 +1,6 @@
 # ETH-AVAX-Intermediate-Project3
 
-This Solidity program includes a simple contract which provides an implementation of smart contract using ERC20 roken.
+This Solidity program includes a simple contract which provides an implementation of smart contract using ERC20 token. It allows the contract owner (admin) to mint new tokens, burn existing tokens, and transfer tokens.
 
 ## Description
 
